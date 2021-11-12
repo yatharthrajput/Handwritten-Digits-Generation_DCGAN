@@ -1,2 +1,2 @@
 # DCGAN
-Handwritten-Digits-Generation---DCGAN-main
+#Handwritten-Digits-Generation---DCGAN-main
