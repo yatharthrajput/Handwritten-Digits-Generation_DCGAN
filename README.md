@@ -1,4 +1,4 @@
-# Handwritten-Digits-Generation---DCGAN
+# Handwritten-Digits-Generation
 A DCGAN model to generate some handwritten digits trained on the MNIST dataset.
 
 ## Modules Used:
