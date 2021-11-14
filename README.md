@@ -5,4 +5,4 @@ A DCGAN model to generate some handwritten digits trained on the MNIST dataset.
 1.) Numpy<br>
 2.) Matplotlib<br>
 3.) Tensorflow
-<
+
