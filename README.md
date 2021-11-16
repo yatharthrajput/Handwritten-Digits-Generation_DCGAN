@@ -7,4 +7,4 @@
 3.) Tensorflow
 <br>
 ## Optimizer User
-Adam 
+Adam O
