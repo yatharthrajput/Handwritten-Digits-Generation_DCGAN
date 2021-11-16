@@ -6,3 +6,5 @@
 2.) Matplotlib<br>
 3.) Tensorflow
 <br>
+## Optimizer User
+Adam 
