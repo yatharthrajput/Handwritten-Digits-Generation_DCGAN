@@ -7,4 +7,4 @@
 3.) Tensorflow
 <br>
 ## Optimizer Used:
-Adam Optimizer
+Adam Optimize
