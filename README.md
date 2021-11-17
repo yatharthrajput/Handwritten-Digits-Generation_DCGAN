@@ -9,4 +9,4 @@
 ## Optimizer Used:
 Adam Optimizer
 
-Loss Funtion:Binary CrossEntrop
+Loss Funtion:Binary CrossEntropy
