@@ -8,3 +8,5 @@
 <br>
 ## Optimizer Used:
 Adam Optimizer
+
+Loss Funtion
