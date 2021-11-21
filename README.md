@@ -1,5 +1,5 @@
 # Handwritten-Digits-Generation
-## A DCGAN model to generate some handwritten digits trained on the MNIST dataset(70,000).
+A DCGAN model to generate some handwritten digits trained on the MNIST dataset(70,000).
 
 ## About
 GANs consist of two neural networks, a
