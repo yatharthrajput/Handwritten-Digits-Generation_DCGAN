@@ -16,7 +16,7 @@ distinctions.
 3.) Tensorflow
 <br>
 ## Optimizer Used:
-Adam Optimizer
+Adam Optimizer:It is a stochastic gradient descent method that is based on adaptive estimation of first-order and second-order moments.
 
 ## Loss Function
 Loss Funtion:Binary CrossEntropy
