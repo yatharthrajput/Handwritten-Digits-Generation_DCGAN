@@ -2,7 +2,7 @@
 A DCGAN model (Deep Convolutional GAN)to generate some handwritten digits trained on the MNIST dataset(70,000).
 
 ## About
-GANs consist of two neural networks, a
+<p>GANs consist of two neural networks, a
 generator and a discriminator, playing a game of cat and mouse. The generator creates new
 data from by drawing from and manipulating a noise distribution, while the discriminator
 distinguishes between generated and real data drawn from a target distribution. Through
