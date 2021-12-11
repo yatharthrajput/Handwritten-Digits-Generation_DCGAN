@@ -14,6 +14,7 @@ distinctions.
 1.) Numpy<br>
 2.) Matplotlib<br>
 3.) Tensorflow
+4.) Keras
 <br>
 ## Optimizer Used:
 Adam Optimizer:<br>It is a stochastic gradient descent method that is based on adaptive estimation of first-order and second-order moments.
