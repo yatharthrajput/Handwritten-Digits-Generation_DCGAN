@@ -22,4 +22,3 @@ Adam Optimizer:<br>It is a stochastic gradient descent method that is based on a
 ## Loss Function
 Loss Funtion:Binary CrossEntropy
  
-n
