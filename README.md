@@ -13,7 +13,7 @@ distinctions.
 ## Modules Used:
 1.) Numpy<br>
 2.) Matplotlib<br>
-3.) Tensorflow<b>
+3.) Tensorflow<br>
 4.) Keras
 <br>
 ## Optimizer Used:
